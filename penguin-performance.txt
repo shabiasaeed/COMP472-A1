@@ -1,0 +1,28 @@
+---===Base-MLP Penguin default, logistic, sgd===---
+---Section 4b---
+Base-MLP Penguin Confusion Matrix:
+[[39  0  0]
+ [10  0  0]
+ [18  0  0]]
+---Section 4c---
+Base-MLP Penguin Classification Report:
+              precision    recall  f1-score   support
+
+      Adelie       0.58      1.00      0.74        39
+   Chinstrap       0.00      0.00      0.00        10
+      Gentoo       0.00      0.00      0.00        18
+
+    accuracy                           0.58        67
+   macro avg       0.19      0.33      0.25        67
+weighted avg       0.34      0.58      0.43        67
+
+---Section 4d---
+---Section 5a---
+Average accuracy: 0.582089552238806
+Accuracy variance: 0.0
+---Section 5b---
+Average macro-average F1: 0.24528301886792453
+Macro-average F1 variance: 7.703719777548943e-34
+---Section 5c---
+Average weighted-average F1: 0.42833004787383827
+Weighted-average F1 variance: 3.0814879110195774e-33
