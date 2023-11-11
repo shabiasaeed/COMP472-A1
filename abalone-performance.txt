@@ -1,0 +1,1 @@
+---===Base-MLP Abalone default, logistic, sgd===---
