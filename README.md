@@ -7,6 +7,8 @@ The objective of this assignment is to experiment with Machine Learning by apply
 ![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PENGUIN](https://img.shields.io/badge/PENGUIN-2ea44f?style=for-the-badge&logo=Linux)
+![Abalone](https://img.shields.io/badge/Abalone-777777?style=for-the-badge&logo=Shell)
 
 ## Team Members
 
@@ -49,3 +51,12 @@ The objective of this assignment is to experiment with Machine Learning by apply
 </table>
 
 ## Running the Project
+Before running this notebook, make sure to run the following command to install all of the required libraries needed to execute the code properly.
+
+`pip install -r requirements.txt --user`
+
+**NOTE:** However, if you installed your Python installation globally, e.g. inside C:\Program Files\Python311 (and not in C:\User\%Appdata\Python311), remove the ***--user*** argument.
+
+After opening the Jupyter notebook in your IDE of choice, press Run All to run all cells sequentially.
+Please note that some cells take longer than others as the model tries its best to learn.
+The entire notebook takes roughly 1-2 hours to run, depending on your machine.
